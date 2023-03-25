@@ -1,10 +1,10 @@
-module github.com/siyuan-note/filelock
+module github.com/K-Sillot/filelock
 
 go 1.18
 
 require (
-	github.com/88250/gulu v1.2.3-0.20230321113152-38c4a3d73c37
-	github.com/siyuan-note/logging v0.0.0-20230319012246-6224f958f554
+	github.com/K-Sillot/gulu v1.2.3-0.20230321113152-38c4a3d73c37
+	github.com/K-Sillot/logging v0.0.0-20230319012246-6224f958f554
 )
 
 require (
