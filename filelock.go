@@ -22,8 +22,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/88250/gulu"
-	"github.com/siyuan-note/logging"
+	"github.com/K-Sillot/gulu"
+	"github.com/K-Sillot/logging"
 )
 
 // TODO: 考虑改为每个文件一个锁以提高并发性能
