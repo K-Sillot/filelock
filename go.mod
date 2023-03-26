@@ -1,10 +1,10 @@
 module github.com/K-Sillot/filelock
 
-go 1.18
+go 1.20
 
 require (
-	github.com/K-Sillot/gulu v1.2.3-0.20230321113152-38c4a3d73c37
-	github.com/K-Sillot/logging v0.0.0-20230319012246-6224f958f554
+	github.com/K-Sillot/gulu v0.0.1
+	github.com/K-Sillot/logging v0.0.1
 )
 
 require (
